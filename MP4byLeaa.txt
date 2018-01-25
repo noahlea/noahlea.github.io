@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>Table</title>
+</head>
+<body>
+<body bgcolor="skyblue">
+<center>
+<font size="14" color="orange" face="verdana"> Mp4: MY PERSONALIZED SCHEDULE</FONT><br>
+<font size="12" color="orange" face="arial"> By: Christian Noah G. Lea</FONT><br>
+<font size="10" color="orange" face="jokerman"> 14-00696 / Sat.2:30-7:30 / Sir Earl Albina</FONT>
+
+<table border=5>
+<br>
+<br>
+<br>
+<br>
+
+<caption><font color="Blue">MP4: MY PERSONALIZED SCHEDULE</caption>
+<tr><th BGCOLOR="YELLOW"><FONT COLOR="GREEN">TIME</th><th BGCOLOR="YELLOW"><FONT COLOR ="GREEN">SUNDAY</th><th BGCOLOR="YELLOW"><FONT COLOR ="GREEN">MONDAY</TH><TH BGCOLOR="YELLOW"><FONT COLOR ="GREEN">TEUSDAY</TH><TH BGCOLOR="YELLOW"><FONT COLOR ="GREEN">WEDNESDAY</TH><TH BGCOLOR="YELLOW"><FONT COLOR ="GREEN">THURDAY</TH><TH BGCOLOR="YELLOW"><FONT COLOR ="GREEN">FRIDAY</TH></tr>
+<tr><td><CENTER>5:00-6:00<BR><CENTER>AM</td><td><CENTER> <IMG SRC="Show relationship (2).JPG" WIDTH="50" HEIGHT="50"><BR>SLEEP</td><td><CENTER> <IMG SRC="Show relationship (2).JPG" WIDTH="50" HEIGHT="50"><BR>SLEEP</td><td><CENTER> <IMG SRC="Show relationship (2).JPG" WIDTH="50" HEIGHT="50"><BR>SLEEP</td><td><CENTER>7:00-8:00<BR><CENTER>AM</td><td><CENTER>7:00-8:00<BR><CENTER>AM</td><td><CENTER>7:00-8:00<BR><CENTER>AM</td></td>
+
+<tr><td><CENTER>6:00-7:00<BR><CENTER>AM</td><td><CENTER> <IMG SRC="Show relationship (2).JPG" WIDTH="50" HEIGHT="50"><BR>SLEEP</td><td><CENTER>7:00-8:00<BR><CENTER>AM</td><td><CENTER>7:00-8:00<BR><CENTER>AM</td><td><CENTER>7:00-8:00<BR><CENTER>AM</td><td><CENTER>7:00-8:00<BR><CENTER>AM</td><td><CENTER>7:00-8:00<BR><CENTER>AM</td></td>
+
+<tr><td><CENTER>7:00-8:00<BR><CENTER>AM</td><td><CENTER> <IMG SRC="Show relationship (2).JPG" WIDTH="50" HEIGHT="50"><BR>SLEEP</td><td><CENTER>7:00-8:00<BR><CENTER>AM</td><td><CENTER>7:00-8:00<BR><CENTER>AM</td><td><CENTER>7:00-8:00<BR><CENTER>AM</td><td><CENTER>7:00-8:00<BR><CENTER>AM</td><td><CENTER>7:00-8:00<BR><CENTER>AM</td></td>
+
+<tr><td><CENTER>9:00-10:00<BR><CENTER>AM</td><td><CENTER>SLEEP</td><td><CENTER>7:00-8:00<BR><CENTER>AM</td><td><CENTER>7:00-8:00<BR><CENTER>AM</td><td><CENTER>7:00-8:00<BR><CENTER>AM</td><td><CENTER>7:00-8:00<BR><CENTER>AM</td><td><CENTER>7:00-8:00<BR><CENTER>AM</td></td>
+
+<tr><td><CENTER>10:00-11:00<BR><CENTER>AM</td><td><CENTER>SLEEP</td><td><CENTER>7:00-8:00<BR><CENTER>AM</td><td><CENTER>7:00-8:00<BR><CENTER>AM</td><td><CENTER>7:00-8:00<BR><CENTER>AM</td><td><CENTER>7:00-8:00<BR><CENTER>AM</td><td><CENTER>7:00-8:00<BR><CENTER>AM</td></td>
+
+<tr><td><CENTER>11:00-12:00<BR><CENTER>AM</td><td><CENTER>SLEEP</td><td><CENTER>7:00-8:00<BR><CENTER>AM</td><td><CENTER>7:00-8:00<BR><CENTER>AM</td><td><CENTER>7:00-8:00<BR><CENTER>AM</td><td><CENTER>7:00-8:00<BR><CENTER>AM</td><td><CENTER>7:00-8:00<BR><CENTER>AM</td></td>
+
+
+</table>
+
+</body>
+</html>
