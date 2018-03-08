@@ -1,9 +1,7 @@
+﻿<!doctype html>
 
-<!doctype html>
-<html>
 <head>
-<title>Home</title>
-
+     <title>MP9</title>
 
 <center> <img src="gif.gif"  style="width:1352px;height:166px;">
 <style>
@@ -128,11 +126,56 @@ color:orange;
 <li><a href="mp11.html"><font face="arial" color="orange">MP11</font></a></li>
 </ul>
 </li>
-</ul>	
+</ul>		
+ <style type ="text/css">
 
+body{
+margin-left:0;
+color: white;
+background: #cc1771;
+background: url("downloadd.jpg") no-repeat center center fixed;
+background-size: cover;
+background-repeat:no-repeat;
+text-align:center;
+color:blue;
+font-family:Arial;
+}
+
+
+</style>
+
+
+
+
+<script>
+var attempt = 3;
+function validate(){
+var password = document.getElementById("password").value;
+if ( password == "ilovewebdevt"){
+alert ("Login successfully");
+window.location = "Quiz.html"; 
+return false;
+}
+
+
+else{
+attempt --;
+alert("You have left "+attempt+" attempt;");
+
+if( attempt == 0){
+document.getElementById("username").disabled = true;
+document.getElementById("password").disabled = true;
+document.getElementById("submit").disabled = true;
+return false;
+}
+}
+}
+</script>
 </head>
+
+
+
 <body>
-<body background="home2.jpg">
 <br>
 <br>
 <br>
@@ -144,6 +187,17 @@ color:orange;
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+
+<label><b>UserName :</b></label>
+<input type="text" name="username" id="username"/><br><br>
+<label><b>Password :</b></label>
+<input type="password" name="password" id="password"/><br><br>
+<input type="button" value="Login" id="submit" onclick="validate()"/>
+
 
 </body>
 </html>
